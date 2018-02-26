@@ -21,7 +21,7 @@ Please make your solution in a language you feel comfortable with. We prefer tha
 
 ## Resolution:
 
-You can run it by calling python favorites-generator.py
+It can be run by calling "python favorites-generator.py"
 
 In case you want to see the instructions you can run python favorites-generator.py -h . 
 
