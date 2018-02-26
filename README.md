@@ -1,8 +1,8 @@
 # Favorites Generator Excercise
 
-Excercise 
+##Excercise 
 
-The attached text file contains the favorite musical artists of 1000 users from Some Popular Music Review Website. Each line is a list of up to 50 artists, formatted as follows:
+The input.txt file contains the favorite musical artists of 1000 users from Some Popular Music Review Website. Each line is a list of up to 50 artists, formatted as follows:
 
 Radiohead,Pulp,Morrissey,Delays,Stereophonics,Blur,Suede,Sleeper,The La's,Super Furry Animals,Iggy Pop\n
 
@@ -19,7 +19,7 @@ Your solution MAY return a best guess, i.e. pairs which appear at least 50 times
 Please make your solution in a language you feel comfortable with. We prefer that you use: Python, Kotlin, OCaml, Python, or Java. If you prefer to do another language not on this list please let us know.
 
 
-Resolution:
+##Resolution:
 
 You can run it by calling python favorites-generator.py
 
