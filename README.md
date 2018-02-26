@@ -1,4 +1,4 @@
-# favorites-generator
+# Favorites Generator Excercise
 
 Excercise 
 
